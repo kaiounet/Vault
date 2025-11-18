@@ -1,7 +1,7 @@
 ---
 type: literature
 created: "{{date}} {{time}}"
-source-type: [book/article/video/podcast]
+source-type:
 status: active
 ---
 

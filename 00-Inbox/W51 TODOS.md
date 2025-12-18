@@ -6,11 +6,12 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] French emails
-- [ ] Symfony Studies
+- [ ] Symfony TPs
 - [ ] Data Science Course (3 Vids)
 - [ ] Linear algebra for ML (3 vids)
-- [ ] KNN Iris plants dataset
+- [ ] PFA MCD
+- [ ] PFA Sequence diagrams
+- [ ] PFA Use Case
 
 
 ## IN_PROGRESS
@@ -20,6 +21,8 @@ kanban-plugin: board
 ## DONE
 
 **Complete**
+- [x] French emails ✅ 2025-12-17
+- [x] KNN Iris plants dataset ✅ 2025-12-17
 
 
 

@@ -13,7 +13,7 @@ The brain is more likely to encode information when three things are met:
 3. Familiarity
 
 ## Context
-- [How To Absorb Everything You Read Like A Sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec)
+- [How To Absorb Everything You Read Like A Sponge](https://www.youtube.com/watch?v=Xu7Yqxlc3ec&pp=ygUlaG93IHRvIGFic29yYiB0ZXh0Ym9va3MgbGlrZSBhIHNwb25nZQ%3D%3D)
 - This matters because it can impact how we read books, docs and notes.
 
 ## Next Steps

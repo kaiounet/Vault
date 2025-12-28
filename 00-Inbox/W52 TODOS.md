@@ -6,16 +6,21 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Symfony TP 3
 - [ ] PFA sequence diagrams
+- [ ] CV
+- [ ] Motivational Letter
+- [ ] Symfony TP 2
+- [ ] Symfony TP 4
 
 
 ## DOING
 
+- [ ] PFA Architecture
 
 
 ## DONE
 
+- [ ] Symfony TP 3
 
 
 

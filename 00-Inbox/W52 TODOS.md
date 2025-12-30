@@ -6,21 +6,24 @@ kanban-plugin: board
 
 ## TODO
 
+- [ ] PFA MCD
+- [ ] PFA MLD
+- [ ] PFA Architecture
 - [ ] PFA sequence diagrams
-- [ ] CV
 - [ ] Motivational Letter
-- [ ] Symfony TP 2
 - [ ] Symfony TP 4
 
 
 ## DOING
 
-- [ ] PFA Architecture
+- [ ] CV --todo: BAC
 
 
 ## DONE
 
 - [ ] Symfony TP 3
+- [ ] Symfony TP 2
+- [ ] PFA Use Case Diagram
 
 
 

@@ -10,13 +10,11 @@ kanban-plugin: board
 - [ ] PFA MLD
 - [ ] PFA Architecture
 - [ ] PFA sequence diagrams
-- [ ] Motivational Letter
 - [ ] Symfony TP 4
 
 
 ## DOING
 
-- [ ] CV --todo: BAC
 
 
 ## DONE
@@ -24,6 +22,8 @@ kanban-plugin: board
 - [ ] Symfony TP 3
 - [ ] Symfony TP 2
 - [ ] PFA Use Case Diagram
+- [ ] Motivational Letter
+- [ ] CV --todo: BAC
 
 
 

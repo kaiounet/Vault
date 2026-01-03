@@ -13,8 +13,6 @@ kanban-plugin: board
 
 ## DOING
 
-- [ ] PFA MCD
-- [ ] PFA MLD
 
 
 ## DONE
@@ -24,6 +22,8 @@ kanban-plugin: board
 - [ ] PFA Use Case Diagram
 - [ ] Motivational Letter
 - [ ] CV --todo: BAC
+- [ ] PFA MCD
+- [ ] PFA MLD
 
 
 

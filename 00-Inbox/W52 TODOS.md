@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] PFA MCD
-- [ ] PFA MLD
 - [ ] PFA Architecture
 - [ ] PFA sequence diagrams
 - [ ] Symfony TP 4
@@ -15,6 +13,8 @@ kanban-plugin: board
 
 ## DOING
 
+- [ ] PFA MCD
+- [ ] PFA MLD
 
 
 ## DONE

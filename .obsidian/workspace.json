@@ -25,20 +25,14 @@
             "id": "7062633476de9a5c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00-Inbox/W52 TODOS.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "00-Inbox/202601032227.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "W52 TODOS"
+              "icon": "lucide-file",
+              "title": "202601032227"
             }
           }
         ],
@@ -206,8 +200,9 @@
   },
   "active": "7062633476de9a5c",
   "lastOpenFiles": [
-    "00-Inbox/202512111236 info encoding maxing.md",
     "00-Inbox/W52 TODOS.md",
+    "00-Inbox/202601032227.md",
+    "00-Inbox/202512111236 info encoding maxing.md",
     "00-Inbox/202512302036.md",
     "00-Inbox/W51 TODOS.md",
     "README.md",
@@ -238,7 +233,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "03-Projects",
